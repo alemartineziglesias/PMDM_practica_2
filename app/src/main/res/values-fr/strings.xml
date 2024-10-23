@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Données personnelles</string>
+    <string name="label_nombre">Nom:</string>
+    <string name="hint_nombre">Écrivez votre nom ici</string>
+    <string name="label_apellidos">Noms de famille:</string>
+    <string name="hint_apellidos">Écrivez votre noms de famille ici</string>
+    <string name="label_edad">Âge:</string>
+    <string name="hint_edad">Écrivez votre âge ici</string>
+    <string name="label_genero">Sexe:</string>
+    <string name="genero_hombre">Homme</string>
+    <string name="genero_mujer">Femme</string>
+    <string name="label_estado">État civil:</string>
+    <string-array name="estados">
+        <item>Célibataire</item>
+        <item>Marié</item>
+        <item>Divorcé</item>
+        <item>Veuf</item>
+        <item>Autre</item>
+    </string-array>
+    <string name="label_hijos">Enfants:</string>
+    <string name="error_nombre">Vous devez mettre le nom</string>
+    <string name="error_apellidos">Vous devez mettre les noms de famille</string>
+    <string name="error_edad">Vous devez mettre l´âge</string>
+    <string name="boton_aceptar">Accepter</string>
+    <string name="boton_limpiar">Supprimer</string>
+    <string name="mayor">adulte</string>
+    <string name="menor">mineur</string>
+    <string name="genero_neutro">non spécifié</string>
+    <string name="hijos_si">et avec des enfants</string>
+    <string name="hijos_no">et sans enfants</string>
+</resources>

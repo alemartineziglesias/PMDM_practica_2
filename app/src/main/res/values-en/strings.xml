@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Personal data</string>
+    <string name="label_nombre">Name:</string>
+    <string name="hint_nombre">Write here your name</string>
+    <string name="label_apellidos">Surnames:</string>
+    <string name="hint_apellidos">Write here your surnames</string>
+    <string name="label_edad">Age:</string>
+    <string name="hint_edad">Write here your age</string>
+    <string name="label_genero">Gender:</string>
+    <string name="genero_hombre">Man</string>
+    <string name="genero_mujer">Woman</string>
+    <string name="label_estado">Civil state:</string>
+    <string-array name="estados">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widow</item>
+        <item>Other</item>
+    </string-array>
+    <string name="label_hijos">Kids:</string>
+    <string name="error_nombre">You must put the name</string>
+    <string name="error_apellidos">You must put the surnames</string>
+    <string name="error_edad">You must put the age</string>
+    <string name="boton_aceptar">Accept</string>
+    <string name="boton_limpiar">Clean</string>
+    <string name="mayor">adult</string>
+    <string name="menor">under-age</string>
+    <string name="genero_neutro">not specified</string>
+    <string name="hijos_si">and with kids</string>
+    <string name="hijos_no">and without kids</string>
+</resources>
